@@ -1,0 +1,8 @@
+// input.txt
+if (x == 10) {
+    return x;
+} else {
+    while (y < 20) {
+        y = y + 1;
+    }
+}
